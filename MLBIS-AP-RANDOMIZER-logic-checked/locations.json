@@ -1,0 +1,5735 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Beanhole - Energy Hold - Lower area, first scene past Drill Bros. entrance, lower area - 01",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Lower area, first scene past Drill Bros. entrance, lower area: bean 1 of 4 (Special Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Lower area, first scene past Drill Bros. entrance, lower area - 02",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Lower area, first scene past Drill Bros. entrance, lower area: bean 2 of 4 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Lower area, first scene past Drill Bros. entrance, lower area - 03",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Lower area, first scene past Drill Bros. entrance, lower area: bean 3 of 4 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Lower area, first scene past Drill Bros. entrance, lower area - 04",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Lower area, first scene past Drill Bros. entrance, lower area: bean 4 of 4 (Special Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper area, same scene - 01",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper area, same scene: bean 1 of 5 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper area, same scene - 02",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper area, same scene: bean 2 of 5 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper area, same scene - 03",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper area, same scene: bean 3 of 5 (Special Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper area, same scene - 04",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper area, same scene: bean 4 of 5 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper area, same scene - 05",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper area, same scene: bean 5 of 5 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Treasure room beneath final ? Block - 01",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Treasure room beneath final ? Block: bean 1 of 3 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Treasure room beneath final ? Block - 02",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Treasure room beneath final ? Block: bean 2 of 3 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Treasure room beneath final ? Block - 03",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Treasure room beneath final ? Block: bean 3 of 3 (Special Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper-right exit of maze, beneath Rally Block - 01",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper-right exit of maze, beneath Rally Block: bean 1 of 5 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper-right exit of maze, beneath Rally Block - 02",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper-right exit of maze, beneath Rally Block: bean 2 of 5 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper-right exit of maze, beneath Rally Block - 03",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper-right exit of maze, beneath Rally Block: bean 3 of 5 (Special Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper-right exit of maze, beneath Rally Block - 04",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper-right exit of maze, beneath Rally Block: bean 4 of 5 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Energy Hold - Upper-right exit of maze, beneath Rally Block - 05",
+      "category": [
+        "Beans",
+        "Energy Hold"
+      ],
+      "_comment": "Upper-right exit of maze, beneath Rally Block: bean 5 of 5 (Heart Bean)",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Airway - Lowest area's rightmost chunk near west exit - 01",
+      "category": [
+        "Beans",
+        "Airway"
+      ],
+      "_comment": "Lowest area's rightmost chunk near west exit: western beanhole (Special Bean)",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Airway - Lowest area's rightmost chunk near west exit - 02",
+      "category": [
+        "Beans",
+        "Airway"
+      ],
+      "_comment": "Lowest area's rightmost chunk near west exit: eastern beanhole (Heart Bean)",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Airway - Lower-right chunk with Totemglobin challenge - 01",
+      "category": [
+        "Beans",
+        "Airway"
+      ],
+      "_comment": "Lower-right chunk with Totemglobin challenge: beanhole 1 of 4 (Heart Bean)",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Airway - Lower-right chunk with Totemglobin challenge - 02",
+      "category": [
+        "Beans",
+        "Airway"
+      ],
+      "_comment": "Lower-right chunk with Totemglobin challenge: beanhole 2 of 4 (Special Bean)",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Airway - Lower-right chunk with Totemglobin challenge - 03",
+      "category": [
+        "Beans",
+        "Airway"
+      ],
+      "_comment": "Lower-right chunk with Totemglobin challenge: beanhole 3 of 4 (Heart Bean)",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Airway - Lower-right chunk with Totemglobin challenge - 04",
+      "category": [
+        "Beans",
+        "Airway"
+      ],
+      "_comment": "Lower-right chunk with Totemglobin challenge: beanhole 4 of 4 (Power Bean)",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Airway - Third-to-last chunk before the end, by left water spout - 01",
+      "category": [
+        "Beans",
+        "Airway"
+      ],
+      "_comment": "Third-to-last chunk before the end, by left water spout: beanhole 1 of 2 (Special Bean)",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Airway - Third-to-last chunk before the end, by left water spout - 02",
+      "category": [
+        "Beans",
+        "Airway"
+      ],
+      "_comment": "Third-to-last chunk before the end, by left water spout: beanhole 2 of 2 (Special Bean)",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - 01",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Squid Fit area east of town, south chunk southeast corner",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - 02",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Squid Fit area south chunk, northwest platform with ? Blocks",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - 03",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Plaza before Peach's Castle, northwest platform",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - 04",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Plaza before Peach's Castle, southwest grassy area",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - 05",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Residential quarter, east of house behind fountain",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - 06",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Residential quarter, southeast within wall",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - Residential quarter, near southwest air vent - 01",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Residential quarter, near southwest air vent: western beanhole (Heart Bean)",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - Residential quarter, near southwest air vent - 02",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Residential quarter, near southwest air vent: eastern beanhole (Power Bean)",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - Northwesternmost house fireplace secret area - 01",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Northwesternmost house fireplace secret area: bean 1 of 3 (Power Bean)",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - Northwesternmost house fireplace secret area - 02",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Northwesternmost house fireplace secret area: bean 2 of 3 (Power Bean)",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - Northwesternmost house fireplace secret area - 03",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Northwesternmost house fireplace secret area: bean 3 of 3 (Power Bean)",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - 09",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Small wood west of town, northern beanhole",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - 10",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Small wood west of town, southern beanhole",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town - 11",
+      "category": [
+        "Beans",
+        "Toad Town"
+      ],
+      "_comment": "Exit chunk to Blubble Lake, beneath blorb-infected Toad",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - Southeast room with Pipe Yard pipe, southern sunken area - 01",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "Southeast room with Pipe Yard pipe, southern sunken area: western beanhole (Special Bean)",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - Southeast room with Pipe Yard pipe, southern sunken area - 02",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "Southeast room with Pipe Yard pipe, southern sunken area: eastern beanhole (Heart Bean)",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - 02",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "Zigzag path, eastern side",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - 03",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "Zigzag path, center of next stair",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - 04",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "Western stair, southern beanhole",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - 05",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "Western stair, northern beanhole",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - 06",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "First scene beyond sealed Dark Star room, eastern platform north beanhole",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - 07",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "First scene beyond sealed Dark Star room, eastern platform west beanhole",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - 08",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "First scene beyond sealed Dark Star room, eastern platform south beanhole",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Toad Town Caves - 09",
+      "category": [
+        "Beans",
+        "Toad Town Caves"
+      ],
+      "_comment": "First scene beyond sealed Dark Star room, eastern platform east beanhole",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 01",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "West area near trapped Koopa Corps, southeast corner",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 02",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Southwest chunk with Cavi Cape exit, northeast corner",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 03",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Pipe Yard pipe area, north corner",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 04",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northeast shortcut path, northwest of two Brick Blocks",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 05",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northeast shortcut path, north side",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 06",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northeast shortcut path, east side",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 07",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northeast shortcut path, southeast side",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 08",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northeast shortcut path, south side",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 09",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northeast shortcut path, southwest side",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 10",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northeast shortcut path, west side",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 11",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Southeast island with Pipe Yard pipe, northwest corner",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 12",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Southeast island with Pipe Yard pipe, northeast corner",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 13",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Southeast island with Pipe Yard pipe, southeast corner",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 14",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Southeast island with Pipe Yard pipe, southwest corner",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 15",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Small island north of southeast island",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 16",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Inside wooden tree northeast of lake, on pillar",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 17",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Tower of Yikk chunk, northwest corner",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 18",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Chunk west of Tower of Yikk, near Save Block",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 19",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northwest of Tower of Yikk, near southeast brick (west)",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 20",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northwest of Tower of Yikk, near southeast brick (middle)",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Blubble Lake - 21",
+      "category": [
+        "Beans",
+        "Blubble Lake"
+      ],
+      "_comment": "Northwest of Tower of Yikk, near southeast brick (east)",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 01",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Second scene on north path, western branch high column",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 02",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Second scene on north path, western branch northern column",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 03",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Second scene on north path, western branch southeast corner",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 04",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Third scene across beach, western area northern beanhole",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 05",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Third scene across beach, western area southern beanhole",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 06",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Western area past two coin ? Blocks, southern corner",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 07",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Western area rocky section, central gap",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 08",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Western area, upper-east near hole",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 09",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Lower area revealed by hole, upper beanhole",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 10",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Lower area revealed by hole, lower beanhole",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 11",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Fourth scene on beach path, western branch turning point south",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 12",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Next-to-last scene before Sea Pipe Statue, southwest corner",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 13",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Behind Kuzzle's house, western rock path",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 14",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Behind Kuzzle's house, eastern rock path",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 15",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "First scene east of Sea Pipe Statue, northwest rock path end",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 16",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Second scene east of Sea Pipe Statue, northern column (Balloon Mario)",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 17",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Cliff area second scene, northwest sandy ground",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Plack Beach - 18",
+      "category": [
+        "Beans",
+        "Plack Beach"
+      ],
+      "_comment": "Cliff area third scene, near lower air vent",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 01",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "East path branch from southernmost main-path scene, northwest corner",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 02",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "End of same branch near Attack Piece block",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 03",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Second section from southern Plack Beach, southwest hill near ? Block",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 04",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Wiggler area, hill west of Wiggler",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 05",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Wiggler area, top of Wiggler's rock wall",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 06",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Second scene west of main path, southwest corner",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 07",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Thorn-filled third scene west of main path, northeast platform lower area",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 08",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Scene north of thorn scene, east side",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 09",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Scene north of thorn scene, southwest corner",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 10",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Fourth scene west of main path, northwest corner",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 11",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Fourth scene west of main path, west of central tree",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 12",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Third main-path section, southeast hill",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 13",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "First scene west of same section, beyond wooden bars northwest",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 14",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Forest secret area north of second west scene, near DX SP Socks",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 15",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "West end of third main-path section, near ? Block with 1-Up Deluxe",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 16",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Third section from northern Bumpsy Plains, northeast beyond wooden bars",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 17",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Northernmost main-path scene, southeast corner",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 18",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Western carrot farm, east of southernmost ? Block",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 19",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Western carrot farm, north exit area on ground",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 20",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Center carrot farm, highest hill",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 21",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Giga-carrot farm, north of slot western beanhole",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 22",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Giga-carrot farm, north of slot eastern beanhole",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 23",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Scene south of carrot farms with two bridges, northeast corner",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 24",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "One scene east of bridge scene, southeast corner",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 25",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Northwest hub, beneath western arch",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 26",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Scene south of hub, central highest hill surrounded by flowers",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 27",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Scene southeast of hub with Pipe Yard pipe, near entrance",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 28",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Scene west of hub, southwest area",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Dimble Wood - 29",
+      "category": [
+        "Beans",
+        "Dimble Wood"
+      ],
+      "_comment": "Scene north of previous west scene, northeast corner",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 01",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Garden southern three chunks, middle chunk southwest shadow of pillars",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 02",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Garden southern three chunks, east chunk southeast within walls",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 03",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Garden east chunk, south corridor below first stair",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 04",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Garden southern three chunks, west chunk northeast corner",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 05",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Garden west chunk, southwest corner",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 06",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Garden castle-door chunk, northeast of southwest statue",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 07",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Garden castle-door chunk, southwest of southeast statue",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 08",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Chunk west of castle door, southwest western beanhole",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 09",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Chunk west of castle door, southwest eastern beanhole",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 10",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Chunk west of castle door, fenced area north",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 11",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Northwest chunk ledge, southwest northern beanhole",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 12",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Northwest chunk ledge, southwest southern beanhole",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 13",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Garden northeasternmost chunk, grass near Junker arena",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 14",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Castle first floor east branch, northwest chunk beanhole 1",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 15",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Castle first floor east branch, northwest chunk beanhole 2",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 16",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Castle first floor east branch, northwest chunk beanhole 3",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Peach's Castle - 17",
+      "category": [
+        "Beans",
+        "Peach's Castle"
+      ],
+      "_comment": "Castle first-floor east branch, bookshelf room northwest corner",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 01",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Southwesternmost starting scene, right of hole",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 02",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Western grassy area beyond spider web, near Red-Hot Fangs/Judge Shell blocks",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 03",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Northeast opening of grassy area, south of stairs",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 04",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Grassy area, end of stairs",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 05",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Scene west of Chakroad, northwest corner",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 06",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Scene west of Chakroad, southwest near exit",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 07",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Southwest exit grassy hill, northwest corner",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 08",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Southwest exit grassy hill, southwest corner",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 09",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Chakroad scene, northwest of large ground hole",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 10",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Scene east of Chakroad, higher area reached from north",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Cavi Cape - 11",
+      "category": [
+        "Beans",
+        "Cavi Cape"
+      ],
+      "_comment": "Eastern cave, next-to-last stair to Blubble Lake",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bumpsy Plains - 01",
+      "category": [
+        "Beans",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Central western grassland, southwest",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bumpsy Plains - 02",
+      "category": [
+        "Beans",
+        "Bumpsy Plains"
+      ],
+      "_comment": "North grassland, southeast corner",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bumpsy Plains - 03",
+      "category": [
+        "Beans",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Hidden area reached through northeast rock opening, northwest of next scene",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bumpsy Plains - 04",
+      "category": [
+        "Beans",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Underground beneath Body Slam-cracked northwest hill, northwestern column",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 01",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "South area first scene, near Save Block",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 02",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "South area second scene, east of ground arrow, underground path west",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 03",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "Northwest-most south-area scene, first stair north of hole",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 04",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "Same underground area, western beanhole",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 05",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "Same underground area, eastern beanhole",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 06",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "North area westernmost scene, northwest rock",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 07",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "North area next-to-westernmost scene, northeast path end",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 08",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "Clearing before Bowser Castle, northwest",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 09",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "Clearing before Bowser Castle, southeast",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Path - 10",
+      "category": [
+        "Beans",
+        "Bowser Path"
+      ],
+      "_comment": "North area next-to-easternmost scene, northeast platform",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 01",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Fawful Theater lobby, upper-left",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 02",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Fawful Theater lobby, upper-middle-left",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 03",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Fawful Theater lobby, center",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 04",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Fawful Theater lobby, lower-middle",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 05",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Fawful Theater lobby, right",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 06",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Bar east of lobby, southwest",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 07",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Bar east of lobby, northeast",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 08",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Bar west of lobby, southeast",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 09",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Bar west of lobby, west",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 10",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Path between theater and lobby, west",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 11",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Path between theater and lobby, east",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 12",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk south of theater, northwest corner",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 13",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk west of theater, upper-left",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 14",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk west of theater, upper-middle",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 15",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk west of theater, upper-right",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 16",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk west of theater, middle-left",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 17",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk west of theater, middle",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 18",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk west of theater, middle-right",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 19",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk west of theater, lower-left",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 20",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk west of theater, lower-right",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 21",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Inside theater, northwest corner",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 22",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Inside theater, northeast corner",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 23",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Inside theater, near south exit",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 24",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Inside theater, center",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 25",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk east of theater, northeast",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 26",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Chunk east of theater, southwest",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 27",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Underground maze chunk, dark stone on lowest ground",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 28",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "First lava chunk, northwest",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 29",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "First lava chunk, northeast",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 30",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "First lava chunk, southeast",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 31",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Southeast branch with preservation-chamber hints, first platform west",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 32",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Southeast branch with preservation-chamber hints, first platform east",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 33",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Large rectangular platform chunk, northwest",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 34",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Large rectangular platform chunk, southeast",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 35",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "First room beyond lava area, northwest platform",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 36",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Second room beyond lava area, northwest corner",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 37",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Second room beyond lava area, northeast",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Beanhole - Bowser Castle - 38",
+      "category": [
+        "Beans",
+        "Bowser Castle"
+      ],
+      "_comment": "Second room beyond lava area, south side",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 001",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Five Coin. Location: Second scene, above hedge right of right platform",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 002",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Coin. Location: Second scene, above left platform",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 003",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Coin. Location: Second scene, above hedge in northwest corner",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 004",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 10 Coins. Location: Second scene, above hedge in northeast corner",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 005",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Five Coin. Location: Third scene, west side",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 006",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Second floor entrance scene, southwest corner",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 007",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: TNT Drumsticks x2. Location: Second floor entrance scene, northeast corner",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 008",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin and 100-Coin. Location: Second floor, second Fawful-statue scene, middle",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 009",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Ultrasyrup Jar. Location: Second floor, scene where Naplocks first appear, south",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 010",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Retry Clock. Location: Second floor, scene left of Peach's room, upper-left",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 011",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Wicked Shell. Location: Second floor, scene left of previous room, northeast platform",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 012",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Second-floor dining room, in front of left table",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 013",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Max Syrup Jar, 50-Coin, 100-Coin. Location: Second floor, second room of right freezer",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 014",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Power Band +. Location: Second floor, two scenes east of dining room, upper-right",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 015",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Second floor, left kitchen scene, southwest",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 016",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: TNT Drumsticks x2. Location: Second floor, left kitchen scene, right platform",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 017",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Second floor, Fawful posters scene, between red and purple platforms",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 018",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Ultrasyrup Jar. Location: Second floor, red-carpet room with four pillars, in front of left sofa",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 019",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Second floor, between two spike-floor scenes, southwest",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 020",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Economy Ring. Location: Second floor, three-door scene, behind green door",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 021",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: TNT Drumsticks x2. Location: Second floor, three-door scene, behind blue door",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 022",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Second floor, final scene, under left exit",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 023",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Second floor, scene to right of previous",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 024",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Stamima Band. Location: Third floor, first scene, right side",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 025",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Third floor, one scene right of bomb dispensers, lower part",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 026",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Third floor, three scenes right of bomb dispensers, near entrance",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 027",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Restore Ring. Location: Third floor, same scene, highest platform",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 028",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Star Candy. Location: Third floor, one scene right of bomb dispensers, upper part",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 029",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Max Syrup Jar. Location: Third floor, scene north of two-scenes-right, upper end",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 030",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin x3. Location: Third floor, two scenes left of bomb dispensers, upper end",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 031",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Retry Clock. Location: Third floor, scene north of bomb dispensers, northeast",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 032",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Third floor, scene north of previous, right side",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 033",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Third floor, scene right of roof-launch scene",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 034",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin and TNT Drumstick. Location: Third floor, scene south of right roof scene, northeast",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 035",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Second floor, stair scene, northeast",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 036",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Special Fangs X. Location: First floor, entrance scene, northwest of upper-left pillar",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 037",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: First floor, fountain scene, northeast",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 038",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: First floor, fountain scene, northwest",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 039",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: First floor, throne room, left of left pillar",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 040",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Star Candy. Location: First floor, throne room, northeast",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 041",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Ultrasyrup Jar. Location: First floor, scene left of throne room, southwest",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 042",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Star Candy. Location: First floor, same scene, northwest",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 043",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: First floor, same scene, northeast",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 044",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: First floor, conference room, left of table",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 045",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Retry Clock. Location: First floor, entrance scene, Bros-only section near exit",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 046",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Star Candy. Location: First Bros-only scene, southwest",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 047",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Second Bros-only scene, highest middle platform",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 048",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Max Mushrooms x2. Location: Third Bros-only scene, west platform",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 049",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Third Bros-only scene, above previous",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 050",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin x10. Location: Third Bros-only scene, east surrounded platform",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 051",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: 50-Coin and Max Nut. Location: Fourth Bros-only fireplace scene, west",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 052",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: D-Star Wear. Location: Fireplace secret scene, at the end",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle - 053",
+      "category": [
+        "Blocks",
+        "Peach's Castle"
+      ],
+      "_comment": "Reward: Max Syrup Jar. Location: Third Bros-only scene, end of large platform",
+      "region": "Peach's Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 001",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Mushrooms x3. Location: Second scene, lower-right",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 002",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: 10 Coins. Location: Second scene, above highest-left platform",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 003",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: 10 Coins and Five Coin. Location: Fourth scene, above/right of sixth platform",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 004",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: 5 Coins. Location: Fifth scene, middle",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 005",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Mushroom. Location: Fifth scene, before exit",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 006",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: 1-Up Mushrooms x3. Location: Seventh scene, before exit",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 007",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Mushrooms x3. Location: Eighth scene, above highest platform",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 008",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Green Shell Attack Piece and Syrup Jars x3. Location: Eleventh scene, east part after hammer crate",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 009",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Green Shell Attack Pieces x3. Location: Twelfth scene, entrance and underneath",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 010",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Green Shell Attack Piece. Location: Twelfth scene, southeast corner",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 011",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Green Shell Attack Piece. Location: Twelfth scene, above previous",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 012",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Green Shell Attack Pieces x2. Location: Twelfth scene, northeast and left of it",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 013",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Green Shell Attack Piece. Location: Twelfth scene, left of previous two",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 014",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Green Shell Attack Piece. Location: Thirteenth scene, middle",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 015",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Five Coins x5. Location: Final scene, start",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Trash Pit - 016",
+      "category": [
+        "Blocks",
+        "Trash Pit"
+      ],
+      "_comment": "Reward: Syrup Jars x3. Location: Final scene, before exit",
+      "region": "Trash Pit",
+      "requires": ""
+    },
+    {
+      "name": "Block - Cavi Cape - 001",
+      "category": [
+        "Blocks",
+        "Cavi Cape"
+      ],
+      "_comment": "Reward: Hot Drumsticks x3. Location: Northernmost purple area in west",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Block - Cavi Cape - 002",
+      "category": [
+        "Blocks",
+        "Cavi Cape"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Northern big grassy area, northeast corner",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Block - Cavi Cape - 003",
+      "category": [
+        "Blocks",
+        "Cavi Cape"
+      ],
+      "_comment": "Reward: Hot Drumsticks x2. Location: Northern big grassy area, south",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Block - Cavi Cape - 004",
+      "category": [
+        "Blocks",
+        "Cavi Cape"
+      ],
+      "_comment": "Reward: Five Coin. Location: Middle big grassy area, between second and third slopes",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Block - Cavi Cape - 005",
+      "category": [
+        "Blocks",
+        "Cavi Cape"
+      ],
+      "_comment": "Reward: Hot Drumstick. Location: Middle grassy area, north after third slope",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Block - Cavi Cape - 006",
+      "category": [
+        "Blocks",
+        "Cavi Cape"
+      ],
+      "_comment": "Reward: Judge Shell and Red-Hot Fangs. Location: Western grassy area beyond spider web; requires relearning Fire Breath",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Block - Cavi Cape - 007",
+      "category": [
+        "Blocks",
+        "Cavi Cape"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Southern big grassy area, southeast corner",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Block - Cavi Cape - 008",
+      "category": [
+        "Blocks",
+        "Cavi Cape"
+      ],
+      "_comment": "Reward: Five Coin. Location: Southern big grassy area, southwest corner",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Block - Cavi Cape - 009",
+      "category": [
+        "Blocks",
+        "Cavi Cape"
+      ],
+      "_comment": "Reward: Ironclad Shell. Location: Northern big grassy area, end of path reached by slopes and wall; requires Spike Ball",
+      "region": "Cavi Cape",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 001",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Hot Drumsticks x2. Location: Beach area first scene, near entrance",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 002",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Beach area second scene, near exit",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 003",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Hot Drumsticks x3. Location: Beach area fourth scene, right of second tooth",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 004",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Hot Drumstick. Location: Beach area fifth scene, behind center tree to left",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 005",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Beach area fourth scene, island reached from scene right of fourth; requires Scutlet defeated",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 006",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Five Coin and Hot Drumstick. Location: Beach area eighth scene, south",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 007",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Beach area second scene, above platform near entrance; requires Bowser ship wall break",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 008",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Ultrasyrup Jar and 100-Coin. Location: Beach area second scene, above central large platform",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 009",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Five Coins x10. Location: Beach area second scene, northeast platform",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 010",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Beach area scene left of second, above southeast pillar",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 011",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Max Nut. Location: Same beach scene, above southwest pillar",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 012",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Ultra Mushroom and 10 Coins. Location: Beach area third scene, above grass island",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 013",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Five Coin and 50-Coin. Location: Scene left of third, southern platform end",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 014",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Big Stomp Boots. Location: Same scene, northwest corner",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 015",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Five Coin. Location: Beach area fourth scene, above platform near entrance",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 016",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Ultra Mushroom. Location: Beach area fourth scene, northwest corner",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 017",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Refreshing Herb and 50-Coin. Location: Fork left of fourth scene, entrance",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 018",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Same fork scene, east",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 019",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Same fork scene, southwest",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 020",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Beach area fifth scene, southeast",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 021",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Max Nut. Location: Scene right of eighth, above westernmost pillar",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 022",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Super Nut and Five Coins. Location: Cliff area first scene, near entrance",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 023",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Cliff area first scene, near exit",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 024",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Cliff area second scene, above platform above entrance",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 025",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Heart Wear and Five Coins x10. Location: Beach fork left of fourth, middle; requires Drill Bros.",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 026",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Star Candy. Location: Beach fork left of fourth, northwest; requires Balloon Mario",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 027",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Star Candy. Location: Cliff area second scene, above northwest platform",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 028",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Flower Gloves. Location: Cliff area third scene, lower part above platform",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 029",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 50-Coins x5. Location: Cliff area fourth scene, above eastern platform",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 030",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Mushroom Gloves. Location: Cliff area scene right of fourth",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 031",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: 9 Coins and Five Coins x29. Location: Cliff area fifth scene, near entrance",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Plack Beach - 032",
+      "category": [
+        "Blocks",
+        "Plack Beach"
+      ],
+      "_comment": "Reward: Star Candy. Location: Cliff area sixth scene, near exit",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 001",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Mushrooms x3 and Retry Clock. Location: Second scene, upper-west",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 002",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fire Flower Attack Piece. Location: Orange-pipe secret scene, Special ? Block pattern",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 003",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fire Flower Attack Piece. Location: Third scene, near entrance",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 004",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: 10 Coins and Mushroom. Location: Third scene, near exit",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 005",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: 10 Coins and Five Coin. Location: Second scene, lower east",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 006",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: 1-Up Mushroom. Location: Second scene, left of previous blocks",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 007",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fire Flower Attack Pieces x2. Location: Fifth scene, alcove near entrance",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 008",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fire Flower Attack Piece. Location: Fifth scene, near exit",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 009",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fire Flower Attack Piece. Location: Eighth scene, near entrance",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 010",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Five Coin. Location: Eighth scene, northeast corner",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 011",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Syrup Jar. Location: Ninth scene, near entrance",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 012",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fire Flower Attack Piece. Location: Ninth scene, near exit, Special ? Block pattern",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 013",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Picnic Wear. Location: Tenth scene, southeast, Mini-Mario access",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 014",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Nut. Location: Tenth scene, northeast of Save Block",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 015",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fire Flower Attack Piece. Location: Eleventh scene, southwest corner",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 016",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: 10 Coins and Mushroom. Location: Eleventh scene, north",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 017",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fire Flower Attack Piece. Location: Twelfth scene, southeast",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 018",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fire Flower Attack Piece. Location: Seventh scene, lower entrance",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 019",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: 10 Coins. Location: Sixth scene, lower Mini-Mario area",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 020",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Fighter Wear. Location: Sixth scene, upper Mini-Mario area",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 021",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: 12 Coins. Location: Drill Bros. accessible first scene, near entrance",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 022",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Super Mushrooms x2. Location: Same area, near upper exit",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 023",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Second Drill Bros. area scene, upper end",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 024",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: 1-Up Deluxes x3. Location: Third Drill Bros. area scene, end",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Pump Works - 025",
+      "category": [
+        "Blocks",
+        "Pump Works"
+      ],
+      "_comment": "Reward: Star Candy and Guardian Socks. Location: Scene after pipe maze, end",
+      "region": "Pump Works",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 001",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: 50-Coin. Location: First scene, southwest",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 002",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Hot Drumsticks x2. Location: First scene, northwest",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 003",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Scene right of second, northeast",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 004",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Retry Clock. Location: Scene two left of third, southwest",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 005",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Syrup Jar. Location: Seventh scene, southeast",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 006",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Hard Ring. Location: Seventh scene, northwest",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 007",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Eighth scene, northeast",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 008",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Retry Clock. Location: Thirteenth scene, third farm, southeast",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 009",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Second scene, above highest ground; after Bowser breaks ship wall",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 010",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: DX SP Socks. Location: Scene north of scene two left of third, at end",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 011",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece. Location: Scene north of scene three left of third, northwest",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 012",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: 1-Up Deluxe. Location: Same scene, northeast",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 013",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece and 100-Coin. Location: Scene right of sixth, above/left of highest ground",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 014",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece. Location: Scene right of scene south of first farm, above ground",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 015",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Five Coins x10. Location: Eleventh scene, first farm, above highest southern ground",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 016",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Max Nut and 100-Coin. Location: Same farm scene, north of previous",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 017",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: 1-Up Deluxe and Star Candy. Location: Scene north of previous, near entrance",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 018",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece. Location: Scene left of seventh, middle",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 019",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece. Location: Scene southeast of previous, above eastern pillar",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 020",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Max Mushroom. Location: Scene right of previous, southwest",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 021",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: 10-Coins x5. Location: Same scene, northeast",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 022",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Scene left of third, island via northwest opening and bridge; requires Drill Bros.",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 023",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: 1-Up Deluxe. Location: Scene right of first, above highest ground; requires Balloon Mario",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 024",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece. Location: Scene right of second, Balloon Mario access",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 025",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Retry Clock. Location: Fourth Sockop scene, northwest; after talking to Chakron",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 026",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece. Location: Fourth Sockop scene, northeast",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 027",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece. Location: Second Sockop scene, southwest",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 028",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece. Location: Second Sockop scene, north/northeast",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Dimble Wood - 029",
+      "category": [
+        "Blocks",
+        "Dimble Wood"
+      ],
+      "_comment": "Reward: Snack Basket Attack Piece. Location: Fifth Sockop scene, west",
+      "region": "Dimble Wood",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bumpsy Plains - 001",
+      "category": [
+        "Blocks",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Reward: Safety Ring. Location: Third scene, southeast via Squid Fit",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bumpsy Plains - 002",
+      "category": [
+        "Blocks",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Third scene, near exit",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bumpsy Plains - 003",
+      "category": [
+        "Blocks",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Scene below second and third, above second highest Brick Block; after ship wall break",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bumpsy Plains - 004",
+      "category": [
+        "Blocks",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Reward: 10-Coins x5. Location: Same scene, northeast",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bumpsy Plains - 005",
+      "category": [
+        "Blocks",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Reward: Star Candy. Location: Body Slam cracked-ground scene, northeast",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bumpsy Plains - 006",
+      "category": [
+        "Blocks",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Reward: Minion Band. Location: Scene north of second, end of second platform via pipe and Sliding Haymaker",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bumpsy Plains - 007",
+      "category": [
+        "Blocks",
+        "Bumpsy Plains"
+      ],
+      "_comment": "Reward: Heroic Patch. Location: Previous scene, Bros-only, first of two highest pillars",
+      "region": "Bumpsy Plains",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Path - 001",
+      "category": [
+        "Blocks",
+        "Bowser Path"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Second scene, north after first slope",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Path - 002",
+      "category": [
+        "Blocks",
+        "Bowser Path"
+      ],
+      "_comment": "Reward: Power Band. Location: Third scene, southeast",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Path - 003",
+      "category": [
+        "Blocks",
+        "Bowser Path"
+      ],
+      "_comment": "Reward: POW Mush Jam. Location: Sixth scene, after Mini-Mario small pipe; after ship wall break",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Path - 004",
+      "category": [
+        "Blocks",
+        "Bowser Path"
+      ],
+      "_comment": "Reward: Max Nut and 100-Coins x3. Location: Secret scene behind middle poster on right in entrance scene",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Path - 005",
+      "category": [
+        "Blocks",
+        "Bowser Path"
+      ],
+      "_comment": "Reward: Giant Shell. Location: Same secret scene, right of right block",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Path - 006",
+      "category": [
+        "Blocks",
+        "Bowser Path"
+      ],
+      "_comment": "Reward: Bye-Bye Gloves. Location: Ninth scene, above elevated ground",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Path - 007",
+      "category": [
+        "Blocks",
+        "Bowser Path"
+      ],
+      "_comment": "Reward: Bye-Bye Gloves. Location: First scene northwest; requires Drill Bros. and Spin Jump",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Path - 008",
+      "category": [
+        "Blocks",
+        "Bowser Path"
+      ],
+      "_comment": "Reward: Max Nut. Location: Scene with Bowser Castle shortcut, southwest; requires Balloon Mario",
+      "region": "Bowser Path",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 001",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: Fiery Drumsticks x2. Location: Path between entrance and theater, west end",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 002",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Path between entrance and theater, east end",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 003",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: TNT Drumstick and Supersyrup Jar. Location: Scene with boarded hole, southwest; requires Body Slam",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 004",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: Burning Fangs. Location: Lower-left scene behind theater",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 005",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: Star Candy. Location: Scene before Bowser feeding area",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 006",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: Retry Clock. Location: Scene before throne room, northeast",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 007",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Throne room, in front of left window",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 008",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: Flashy Fangs. Location: Throne room, in front of right window",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 009",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Body Slam trapdoor scene, left of lower-left trapdoor",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 010",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 10-Coin and Supersyrup Jar. Location: First conveyor belt scene, southwest metal platform",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 011",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: TNT Drumstick. Location: Second conveyor belt scene, southwest metal platform",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 012",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: Supersyrup Jar and 50-Coin. Location: Third conveyor belt scene, northwest",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 013",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 10-Coin and 50-Coin. Location: Preservation Chamber entrance scene, north between entrance and raised ground",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 014",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Scene left of preservation chamber entrance, near entrance",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 015",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Same scene, northeast",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 016",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Same scene, near upper broken barrel",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 017",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: TNT Drumstick. Location: U-turn platform scene, middle-right platform",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 018",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: U-turn platform scene, lower-left platform",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 019",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: U-turn platform scene, middle-left platform",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 020",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Scene reached from previous scene's upper-right platform",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 021",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Next scene, near northwest exit",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 022",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Second conveyor belt scene, middle metal platform; requires Balloon Mario",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 023",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Third conveyor belt scene, southeast metal platform; requires Balloon Mario",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Bowser Castle - 024",
+      "category": [
+        "Blocks",
+        "Bowser Castle"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Third conveyor belt scene, southwest metal platform; requires Balloon Mario",
+      "region": "Bowser Castle",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 001",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Retry Clock. Location: First scene, left",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 002",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Jump Helmet Attack Piece and Five Coin. Location: Second scene, near entrance",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 003",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Super Mushroom. Location: Second scene, end of bouncing section",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 004",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Scene after red pipe in first fork, above westernmost platform",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 005",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Same scene, above fourth platform",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 006",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: 50-Coin and Syrup Jar. Location: Scene after green pipe, above bouncy platforms near ceiling",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 007",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Super Nut and POW Boots. Location: After red pipe, over bouncy ground; requires hidden-block platform",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 008",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Same scene, right of previous blocks",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 009",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Jump Helmet Attack Pieces x4. Location: Red-pipe scene after fork, right of Save Block; Rally Block",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 010",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Jump Helmet Attack Pieces x4. Location: Green-pipe scene after first fork, ground after bouncy ground",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 011",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Super Mushroom. Location: Same scene, above westernmost platform",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 012",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Five Coin. Location: Same scene, above fourth platform",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 013",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Jump Helmet Attack Piece. Location: Scene where Spin Jump is learned, at end",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 014",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Ultra Nut and EXP Socks. Location: Secret scene through wall from second hidden platform",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 015",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Five Coin and 1-Up Mushroom. Location: Hidden-block platforms and whirlwind scene, above visible platforms",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 016",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: 10-Coin and Supersyrup Jar. Location: Two scenes after previous, near entrance and under first bouncy platform",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 017",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Five Coins x5. Location: Same scene, under second bouncy platform",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 018",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: Supersyrup Jar and Super Mushrooms x2. Location: Scene with three green mushroom platforms, above first and third",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Flab Zone - 019",
+      "category": [
+        "Blocks",
+        "Flab Zone"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Second-to-last scene, above second-to-last mushroom platform",
+      "region": "Flab Zone",
+      "requires": ""
+    },
+    {
+      "name": "Block - Challenge Node - 001",
+      "category": [
+        "Blocks",
+        "Challenge Node"
+      ],
+      "_comment": "Reward: Coin total doubled. Location: Rally Block above Gauntlet and Cholesteroad doors",
+      "region": "Challenge Node",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tunnel - 001",
+      "category": [
+        "Blocks",
+        "Tunnel"
+      ],
+      "_comment": "Reward: Five Coin. Location: West area's southwesternmost scene, right of sandbags",
+      "region": "Tunnel",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tunnel - 002",
+      "category": [
+        "Blocks",
+        "Tunnel"
+      ],
+      "_comment": "Reward: Special Fangs. Location: Same scene, northwest in front of sandbags",
+      "region": "Tunnel",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tunnel - 003",
+      "category": [
+        "Blocks",
+        "Tunnel"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Same scene, southwest",
+      "region": "Tunnel",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tunnel - 004",
+      "category": [
+        "Blocks",
+        "Tunnel"
+      ],
+      "_comment": "Reward: 10-Coin and Supersyrup Jar. Location: West area's southern scene, northeast",
+      "region": "Tunnel",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tunnel - 005",
+      "category": [
+        "Blocks",
+        "Tunnel"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Same scene, south of previous blocks",
+      "region": "Tunnel",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tunnel - 006",
+      "category": [
+        "Blocks",
+        "Tunnel"
+      ],
+      "_comment": "Reward: 10-Coin. Location: East area's first scene, southeast",
+      "region": "Tunnel",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tunnel - 007",
+      "category": [
+        "Blocks",
+        "Tunnel"
+      ],
+      "_comment": "Reward: Rock Shell and 100-Coin. Location: Scene beyond leftmost crack in east area",
+      "region": "Tunnel",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tunnel - 008",
+      "category": [
+        "Blocks",
+        "Tunnel"
+      ],
+      "_comment": "Reward: Cheap Ring. Location: Large scene beyond middle/right crack, rightmost-crack section",
+      "region": "Tunnel",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tunnel - 009",
+      "category": [
+        "Blocks",
+        "Tunnel"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Same large scene, middle-crack section",
+      "region": "Tunnel",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 001",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: Five Coins x10 and Super Nut. Location: Third zigzag-path scene, northeast purple area",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 002",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Fifth scene, northwest; requires Shell Mario",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 003",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Fifth scene, southeast of previous; Shell Mario",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 004",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: 10-Coins x10. Location: Dark Star chamber, northeast",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 005",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: Star Candy and Five Coins x10. Location: Scene left of Dark Star chamber, northeast",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 006",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: Five Coins x10. Location: First scene beyond Dark Star chamber, northeast",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 007",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: Super Mushrooms x2. Location: Same scene, northwest",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 008",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: Five Coins x10. Location: Second scene beyond Dark Star chamber, above southeast platform",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 009",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Same scene, northeast corner",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 010",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Same scene, right alcove",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 011",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Same scene, left alcove",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 012",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: 10-Coins x10 and Coin Socks. Location: Same scene, west part",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 013",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: 50-Coin and 10-Coin. Location: Last scene, southeast",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town Caves - 014",
+      "category": [
+        "Blocks",
+        "Toad Town Caves"
+      ],
+      "_comment": "Reward: Max Mushroom and Budget Charm. Location: Hole in southern pipe area; after entering north of Toad Town shopping mall",
+      "region": "Toad Town Caves",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 001",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: 10-Coins x10. Location: Left grassy area, northwest corner",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 002",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: Thrift Charm. Location: Alcove beneath right grassy area",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 003",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: Yoo Who Cannon Attack Pieces x10. Location: End of cloud section, Shell Mario required",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 004",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: Star Candy. Location: Northern Squid Fit scene; after exiting Toad Town Caves yellow pipe",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 005",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: 50-Coin and 10-Coin. Location: Northwest house, above smaller carpets",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 006",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: Ultra Nut. Location: Southern Squid Fit scene, bottom of left platform",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 007",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Same scene, above previous block",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 008",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: DX POW Gloves. Location: Toadley Clinic bedroom east-wall hole; requires Drill Bros.",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 009",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Same scene, above previous block",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 010",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: Mushroom Stone and 100-Coin. Location: Above fountain in residence area, Shell Mario; after Blorbs cured",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 011",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: Ultra Mushrooms x3. Location: Northeastern houses, top of right house",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 012",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: Muscle Wear. Location: Northeastern houses, top of left house",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 013",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: Retry Clock, Max Nut, 10-Coins x10. Location: House north of fountain",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 014",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: 100-Coins x5. Location: House with hole in roof",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 015",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: Max Nut and KO Shell. Location: Hidden maze inside roof-hole house, middle-west alcove",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 016",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: 100-Coins x5. Location: Same room, west ground alcove",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Toad Town - 017",
+      "category": [
+        "Blocks",
+        "Toad Town"
+      ],
+      "_comment": "Reward: 1-Up Deluxe. Location: Same room, middle ground level",
+      "region": "Toad Town",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 001",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Super Nut. Location: Northwest group, southwestern scene",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 002",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Same scene, southeast",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 003",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Fiery Drumstick. Location: Scene where Koopa Corps is trapped",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 004",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 1-Up Deluxe. Location: Northwest group, southeastern scene",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 005",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Same scene, north",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 006",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Underwater area, first scene, northeast",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 007",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Underwater middle scene, northeast",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 008",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Hot Drumsticks x4 and 50-Coin. Location: Underwater middle scene, southwest",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 009",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Underwater northeastern scene",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 010",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Rampage Shell. Location: Northeastern beach area, smallest island",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 011",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Same scene, largest island southeast",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 012",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Spike Ball wall scene, south",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 013",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Large rectangular island, south",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 014",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Same island, northeast",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 015",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Fury Fangs. Location: Middle large beach area, upper-right island",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 016",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Same area, upper-left island",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 017",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Scene northwest of Tower of Yikk, southeast",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 018",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Retry Clock. Location: Scene one left of Tower of Yikk",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 019",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Brawny Wear. Location: Southwesternmost scene, largest platform",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 020",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 50-Coins x5. Location: Spike Ball wall scene, southwest",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 021",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Super Mushrooms x2 and 50-Coin. Location: Blue-pipe scene, behind pipe",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 022",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Tree hole east of map, left of uppermost pillar; requires Drill Bros.",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 023",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Star Candy. Location: Same tree scene, above southeast double-pillar",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 024",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Deluxe HP Socks. Location: Same tree scene, above north weight-dependent platform",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 025",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Supersyrup Jars x2 and 100-Coin. Location: Scene to right of lake area",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Blubble Lake - 026",
+      "category": [
+        "Blocks",
+        "Blubble Lake"
+      ],
+      "_comment": "Reward: Luxury Patch. Location: Northwest of Tower of Yikk, above raised ground; requires Body Slam",
+      "region": "Blubble Lake",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 001",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Nut. Location: First area, third scene, above westernmost Boo platform",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 002",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 12 Coins. Location: First area, fourth scene, middle",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 003",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Refreshing Herbs x2. Location: First area, fourth scene, top",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 004",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Second area, fifth scene, above westernmost platform",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 005",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Bouncer Attack Piece. Location: Second area, fifth scene, southwest",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 006",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 1-Up Deluxe. Location: Upper-right area from star door, second scene, northeast",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 007",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Mushroom. Location: Upper-right area from star door, first scene",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 008",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 10-Coin. Location: Upper-left area from star door, first reflector wall upper-left",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 009",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Five Coins x10. Location: Same scene, first reflector wall upper-middle",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 010",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 1-Up Deluxe. Location: Same scene, first reflector wall upper-right",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 011",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Hero Wear. Location: Same area, second reflector wall southwest",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 012",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Bouncer Attack Pieces x4. Location: Upper-left area, third scene, upper part; Rally Block",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 013",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Same scene, lower part",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 014",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Five Coins x10. Location: Upper-left area, first scene",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 015",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Mushrooms x2. Location: Upper area behind door, second scene, northeast",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 016",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Upper area, first scene",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 017",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Lower-left area, second scene, southeast",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 018",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Mushrooms x2. Location: Same scene, northwest",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 019",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 10-Coins x10 and Star Candy. Location: Lower-left area, third-scene room behind door",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 020",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Special Boots. Location: Same room, at end",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 021",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Mushroom. Location: Lower-left area, first scene",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 022",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Bouncer Attack Pieces x4. Location: Lower-right area, rightmost scene, Mini-Mario maze",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 023",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 10-Coins x9 and Supersyrup Jar. Location: Same scene, above maze",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 024",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Bouncer Attack Piece. Location: Lower-right area, second scene northwest; Special ? Block pattern",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 025",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Nurse Socks. Location: Lower-right area, first scene",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 026",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Nut. Location: Third area beyond star door, first scene west",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 027",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Same scene, east near exit",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 028",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Third area, second scene, northwest",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 029",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Five Coins x10. Location: Same scene, above lowest left Boo block",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 030",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Star Candy. Location: Same scene, above lowest right Boo block",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 031",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 12 Coins. Location: Scene reached by first yellow/fourth pipe from second scene beyond star door",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 032",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 50-Coin and Supersyrup Jar. Location: Scene reached by fifth red/eleventh pipe",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 033",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Nut. Location: Third scene beyond star door, right of first reflector wall",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 034",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Same scene, southwest of reflector wall",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 035",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Five Coins x10 and 10-Coin. Location: Fourth scene beyond star door, top",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 036",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Back in third scene, left of second reflector wall",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 037",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Delicious Gloves. Location: Same scene, southwest of second reflector wall",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 038",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Retry Clock. Location: Fifth scene beyond star door, southeast",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Energy Hold - 039",
+      "category": [
+        "Blocks",
+        "Energy Hold"
+      ],
+      "_comment": "Reward: Super Nuts x2. Location: Same scene, northwest",
+      "region": "Energy Hold",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tower of Yikk - 001",
+      "category": [
+        "Blocks",
+        "Tower of Yikk"
+      ],
+      "_comment": "Reward: 100-Coin and Star Candy. Location: Second scene, southeast",
+      "region": "Tower of Yikk",
+      "requires": ""
+    },
+    {
+      "name": "Block - Tower of Yikk - 002",
+      "category": [
+        "Blocks",
+        "Tower of Yikk"
+      ],
+      "_comment": "Reward: Drumstick Ring. Location: Second scene, northwest",
+      "region": "Tower of Yikk",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 001",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Southeasternmost scene, behind east wall",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 002",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Same scene, left of northern platform; Shell Mario",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 003",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Falling Star Attack Pieces x7. Location: Same scene, northwest; Shell Mario",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 004",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Southernmost scene",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 005",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 10-Coins x10. Location: Southwesternmost scene, lowest above darker hedge",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 006",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Ultra Mushrooms x2. Location: Same scene, above light hedge",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 007",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Supersyrup Jar. Location: Same scene, highest above darker hedge",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 008",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Falling Star Attack Piece. Location: Same scene, middle above darker hedge; hidden",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 009",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Same scene, above ground left of darker hedge",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 010",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 1-Up Deluxe. Location: Castle-gate scene, northwest",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 011",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Metal Mawful Mole scene, northeast",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 012",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 100-Coin and Ultra Mushrooms x4 and Max Nut. Location: Castle-gate scene, northeast",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 013",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Room in castle-wall hole, above southwest pillar",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 014",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Max Syrup Jar. Location: Same room, wall southeast",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 015",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 50-Coins x10. Location: Same room, northwest",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 016",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Same room, northeast",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 017",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Falling Star Attack Piece. Location: Same room, north wall; hidden",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 018",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Star Candy and Surprising Socks. Location: Northeast of castle gate, Mini-Mario-only area",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 019",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Five Coins x10. Location: Northwest of castle gate, above northwest ground",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 020",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Falling Star Attack Piece. Location: Same area, above northern pillar; hidden",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 021",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: DX POW Gloves and Max Syrup Jar. Location: Same area, northeast after tower",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 022",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Retry Clock and 10-Coin. Location: Northwesternmost grassy scene, above/right of hedge",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 023",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Northeast of castle gate, between stone platform and wall",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Peach's Castle Garden - 024",
+      "category": [
+        "Blocks",
+        "Peach's Castle Garden"
+      ],
+      "_comment": "Reward: Five Coins x10. Location: Scene east of castle gate, above northeast hedge",
+      "region": "Peach's Castle Garden",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 001",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Second scene, near entrance",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 002",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 100-Coin. Location: Second scene, near exit",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 003",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 1-Up Deluxe. Location: Third scene, lower part between two green pipes",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 004",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 100-Coin and 50-Coin. Location: Fourth scene, northwest",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 005",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: Ultra Mushrooms x2. Location: Fourth scene, under previous blocks",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 006",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Fifth scene, lower part near entrance",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 007",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 50-Coins x10. Location: Fifth scene, lower part before fire gust",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 008",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: Supersyrup Jars x2. Location: Fifth scene, upper part start",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 009",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: Retry Clock. Location: Sixth scene, northwest",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 010",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: Ultra Nuts x2. Location: Eighth scene, northeast",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 011",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: King Wear. Location: Ninth scene, northeast",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 012",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 50-Coin. Location: Ninth scene, southeast above upper platform",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 013",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 50-Coins x10. Location: Ninth scene, southwest above upper platform",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 014",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 100-Coin and 1-Up Deluxe. Location: Tenth scene, southwest",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "Block - Airway - 015",
+      "category": [
+        "Blocks",
+        "Airway"
+      ],
+      "_comment": "Reward: 50-Coins x5. Location: Tenth scene, southeast",
+      "region": "Airway",
+      "requires": ""
+    },
+    {
+      "name": "PR Toad - 12 Mushroom Balls",
+      "category": [
+        "Objects and Rewards",
+        "Toad Town"
+      ],
+      "_comment": "Turn in 12 Mushroom Balls for Heart Beans x5",
+      "region": "Toad Town",
+      "requires": "|Mushroom Ball:12|"
+    },
+    {
+      "name": "PR Toad - 13 Mushroom Balls",
+      "category": [
+        "Objects and Rewards",
+        "Toad Town"
+      ],
+      "_comment": "Turn in 13 Mushroom Balls for Special Beans x5",
+      "region": "Toad Town",
+      "requires": "|Mushroom Ball:13|"
+    },
+    {
+      "name": "PR Toad - 14 Mushroom Balls",
+      "category": [
+        "Objects and Rewards",
+        "Toad Town"
+      ],
+      "_comment": "Turn in 14 Mushroom Balls for Power Beans x5",
+      "region": "Toad Town",
+      "requires": "|Mushroom Ball:14|"
+    },
+    {
+      "name": "Kuzzle Puzzle Sack - First Completion",
+      "category": [
+        "Objects and Rewards",
+        "Plack Beach"
+      ],
+      "_comment": "Complete Kuzzle's first Puzzle Sack; Heart, Special, and Power Bean rewards",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Kuzzle Puzzle Sack - Second Completion",
+      "category": [
+        "Objects and Rewards",
+        "Plack Beach"
+      ],
+      "_comment": "Complete Kuzzle's second Puzzle Sack; Heart, Special, and Power Bean rewards",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Kuzzle Puzzle Sack - Third Completion",
+      "category": [
+        "Objects and Rewards",
+        "Plack Beach"
+      ],
+      "_comment": "Complete Kuzzle's third Puzzle Sack; Heart, Special, and Power Bean rewards",
+      "region": "Plack Beach",
+      "requires": ""
+    },
+    {
+      "name": "Kuzzle Puzzle Sack - Fourth Completion",
+      "category": [
+        "Objects and Rewards",
+        "Plack Beach"
+      ],
+      "_comment": "Complete Kuzzle's fourth Puzzle Sack; Heart Beans x10, Special Beans x10, Power Beans x10",
+      "region": "Plack Beach",
+      "requires": ""
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.events.schema.json",
+  "data": [
+    {
+      "name": "Mario Level Up - Level 6",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Mario reaches level 6; Shell Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Mario Level Up - Level 12",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Mario reaches level 12; Flower Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Mario Level Up - Level 18",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Mario reaches level 18; Shine Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Mario Level Up - Level 25",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Mario reaches level 25; Star Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Mario Level Up - Level 40",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Mario reaches level 40; Rainbow Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Luigi Level Up - Level 6",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Luigi reaches level 6; Shell Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Luigi Level Up - Level 12",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Luigi reaches level 12; Flower Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Luigi Level Up - Level 18",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Luigi reaches level 18; Shine Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Luigi Level Up - Level 25",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Luigi reaches level 25; Star Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Luigi Level Up - Level 40",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Luigi reaches level 40; Rainbow Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Bowser Level Up - Level 10",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Bowser reaches level 10; Silver Boss Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Bowser Path"
+    },
+    {
+      "name": "Bowser Level Up - Level 20",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Bowser reaches level 20; Gold Boss Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Bowser Path"
+    },
+    {
+      "name": "Bowser Level Up - Level 40",
+      "category": [
+        "Ranks"
+      ],
+      "visible": true,
+      "_comment": "Bowser reaches level 40; Final Boss Rank milestone. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "",
+      "region": "Bowser Path"
+    },
+    {
+      "name": "Chakron - Talk and Receive Guidance",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Talk to Chakron; opens access to a set of Dimble Wood blocks Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Plack Beach - Chakron Defeated|",
+      "region": "Plack Beach"
+    },
+    {
+      "name": "Drill Bros. Tutorial Reward",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Complete the Drill Bros. tutorial Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Tower of Yikk - Boo-Ray Machine Activated|",
+      "region": "Energy Hold"
+    },
+    {
+      "name": "Toad Town - Learn Shell Mario",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Learn Shell Mario from the town's progression sequence Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Toad Town - Pipe Yard Accessed|",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Toadley Clinic - Learn Balloon Mario",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Receive Balloon Mario from Toadley Clinic Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Toad Town - Pipe Yard Accessed|",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Tower of Yikk - Learn Body Slam",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Complete Tower of Yikk and learn Body Slam Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Joint Tower - Pressure Points Activated|",
+      "region": "Joint Tower"
+    },
+    {
+      "name": "Peach's Castle - Learn Spike Ball",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Defeat Junker and learn Spike Ball as Bowser Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Dark Star Barrier Destroyed|",
+      "region": "Peach's Castle Garden"
+    },
+    {
+      "name": "Plack Beach - Relearn Fire Breath",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Relearn Fire Breath to access the Cavi Cape blocks behind the spider web Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Bowser - Reaches Plack Beach|",
+      "region": "Plack Beach"
+    },
+    {
+      "name": "Blubble Lake - Koopa Corps Rescued",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Rescue the Koopa Corps Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Blubble Lake - Tower of Yikk Raised|",
+      "region": "Blubble Lake"
+    },
+    {
+      "name": "Dimble Wood - Wiggler Passage Opened",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Clear the Wiggler/Sockop passage Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Plack Beach - Broque Sends Bowser to Dimble Wood|",
+      "region": "Dimble Wood"
+    },
+    {
+      "name": "Peach's Castle Garden - Defeat Junker",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Defeat Junker Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Dark Star Barrier Destroyed|",
+      "region": "Peach's Castle Garden"
+    },
+    {
+      "name": "Peach's Castle Garden - Falling Star Attack Pieces",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Collect the Falling Star Attack Pieces from the Attack Piece blocks Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|@Attack Pieces:10|",
+      "region": "Peach's Castle Garden"
+    },
+    {
+      "name": "Trash Pit - Green Shell Attack Complete",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Collect all Green Shell Attack Pieces Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Attack Piece - Trash Pit:10|",
+      "region": "Trash Pit"
+    },
+    {
+      "name": "Pump Works - Fire Flower Attack Complete",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Collect all Fire Flower Attack Pieces Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Attack Piece - Pump Works:10|",
+      "region": "Pump Works"
+    },
+    {
+      "name": "Dimble Wood - Snack Basket Attack Complete",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Collect all Snack Basket Attack Pieces Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Attack Piece - Dimble Wood:10|",
+      "region": "Dimble Wood"
+    },
+    {
+      "name": "Flab Zone - Jump Helmet Attack Complete",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Collect all Jump Helmet Attack Pieces Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Attack Piece - Flab Zone:10|",
+      "region": "Flab Zone"
+    },
+    {
+      "name": "Energy Hold - Super Bouncer Attack Complete",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Collect all Super Bouncer Attack Pieces Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Attack Piece - Energy Hold:10|",
+      "region": "Energy Hold"
+    },
+    {
+      "name": "Toad Town - Yoo Who Cannon Attack Complete",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Collect all Yoo Who Cannon Attack Pieces Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Attack Piece - Toad Town:10|",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Complete Cholesteroad",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Complete the Cholesteroad challenge Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Toad Town - Pipe Yard Accessed|",
+      "region": "Challenge Node"
+    },
+    {
+      "name": "Complete the Gauntlet",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Complete the Gauntlet challenge Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Toad Town - Pipe Yard Accessed|",
+      "region": "Challenge Node"
+    },
+    {
+      "name": "Complete Challenge Node Rally Block",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Hit the Rally Block to double coin total Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Toad Town - Pipe Yard Accessed|",
+      "region": "Challenge Node"
+    },
+    {
+      "name": "Complete Mushroom Ball Collection",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Collect and return the Mushroom Balls to PR Toad Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Mushroom Ball:16|",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Blitty Collection Complete",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Collect all Blitties Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Blitty:15|",
+      "region": "Toad Town"
+    },
+    {
+      "name": "Kuzzle Puzzle Sacks Complete",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Complete all Puzzle Sacks Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Puzzle Sack:4|",
+      "region": "Plack Beach"
+    },
+    {
+      "name": "Reach the Ending",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "Defeat the final boss and reach the ending Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Defeat Fawful|",
+      "region": "Peach's Castle Garden"
+    },
+    {
+      "name": "Obtain First Star Cure",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "In-game progression milestone; not an item-bearing check. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Energy Hold - Wisdurm Defeated|",
+      "region": "Energy Hold"
+    },
+    {
+      "name": "Obtain Second Star Cure",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "In-game progression milestone; not an item-bearing check. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Bowser Castle - Fawful Express Defeated| and |Obtain First Star Cure|",
+      "region": "Bowser Castle"
+    },
+    {
+      "name": "Obtain Third Star Cure",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "In-game progression milestone; not an item-bearing check. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Chakron - Talk and Receive Guidance| and |Obtain Second Star Cure|",
+      "region": "Plack Beach"
+    },
+    {
+      "name": "Defeat Midbus",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "In-game progression milestone; not an item-bearing check. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Tower of Yikk - Learn Body Slam|",
+      "region": "Bowser Castle"
+    },
+    {
+      "name": "Defeat Blizzard Midbus",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "In-game progression milestone; not an item-bearing check. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Obtain Second Star Cure| and |Defeat Midbus|",
+      "region": "Bowser Castle"
+    },
+    {
+      "name": "Defeat Dark Star",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "In-game progression milestone; not an item-bearing check. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Create Miracle Cure| and |Defeat Blizzard Midbus|",
+      "region": "Peach's Castle Garden"
+    },
+    {
+      "name": "Defeat Dark Bowser",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "In-game progression milestone; not an item-bearing check. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Defeat Dark Star|",
+      "region": "Peach's Castle Garden"
+    },
+    {
+      "name": "Defeat Fawful",
+      "category": [
+        "Story Events"
+      ],
+      "visible": true,
+      "_comment": "In-game progression milestone; not an item-bearing check. Event placeholder; wire its requirement into game logic before relying on generated spheres.",
+      "requires": "|Defeat Dark Bowser|",
+      "region": "Peach's Castle Garden"
+    },
+    {
+      "name": "Opening - Mario Defeats Bowser",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Opening",
+      "requires": "",
+      "visible": true,
+      "_comment": "Story event after the opening tutorial battle."
+    },
+    {
+      "name": "Opening - Bowser Inhales Mario and Luigi",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Bowser Path",
+      "requires": "|Opening - Mario Defeats Bowser|",
+      "visible": true,
+      "_comment": "Bowser consumes the Lucky Mushroom and inhales the Bros."
+    },
+    {
+      "name": "Cavi Cape - Route to Plack Beach Opened",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Cavi Cape",
+      "requires": "|Opening - Bowser Inhales Mario and Luigi|",
+      "visible": true,
+      "_comment": "Bowser regains his bearings and opens the route toward Plack Beach."
+    },
+    {
+      "name": "Cavi Cape - Route to Bumpsy Plains Opened",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Cavi Cape",
+      "requires": "|Opening - Bowser Inhales Mario and Luigi|",
+      "visible": true,
+      "_comment": "Overworld route milestone; supports the later Toad Town route."
+    },
+    {
+      "name": "Bowser - Reaches Plack Beach",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Cavi Cape",
+      "requires": "|Cavi Cape - Route to Plack Beach Opened|",
+      "visible": true,
+      "_comment": "Bowser reaches the Sea Pipe Statue area."
+    },
+    {
+      "name": "Plack Beach - Sea Pipe Statue Defeated",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Plack Beach",
+      "requires": "|Bowser - Reaches Plack Beach|",
+      "visible": true,
+      "_comment": "Defeating the Sea Pipe Statue opens the Pump Works route."
+    },
+    {
+      "name": "Plack Beach - Broque Sends Bowser to Dimble Wood",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Plack Beach",
+      "requires": "|Plack Beach - Sea Pipe Statue Defeated|",
+      "visible": true,
+      "_comment": "Broque and Broggy point Bowser toward their shop in Dimble Wood."
+    },
+    {
+      "name": "Plack Beach - Route to Blubble Lake Opened",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Plack Beach",
+      "requires": "|Plack Beach - Sea Pipe Statue Defeated|",
+      "visible": true,
+      "_comment": "Bowser can continue toward Blubble Lake."
+    },
+    {
+      "name": "Bowser - Reaches Bumpsy Plains",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Cavi Cape",
+      "requires": "|Cavi Cape - Route to Bumpsy Plains Opened|",
+      "visible": true,
+      "_comment": "Bowser reaches the plains on the way to Toad Town."
+    },
+    {
+      "name": "Bowser - Reaches Toad Town",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Bumpsy Plains",
+      "requires": "|Bowser - Reaches Bumpsy Plains|",
+      "visible": true,
+      "_comment": "Bowser reaches Toad Town and the Leg Outpost sequence."
+    },
+    {
+      "name": "Trash Pit - Hammers Acquired",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Trash Pit",
+      "requires": "",
+      "visible": true,
+      "_comment": "Mario and Luigi acquire their hammers in the Trash Pit."
+    },
+    {
+      "name": "Trash Pit - Inner Passage Opened",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Trash Pit",
+      "requires": "|Trash Pit - Hammers Acquired|",
+      "visible": true,
+      "_comment": "The Bros open the passage onward through Bowser’s body."
+    },
+    {
+      "name": "Airway - Inner Passage Opened",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Airway",
+      "requires": "|Trash Pit - Inner Passage Opened|",
+      "visible": true,
+      "_comment": "The Bros progress through the Airway."
+    },
+    {
+      "name": "Toad Town Caves - Pipe Yard Exit Opened",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Toad Town Caves",
+      "requires": "|Airway - Inner Passage Opened|",
+      "visible": true,
+      "_comment": "The Bros reach the Pipe Yard connection to Toad Town."
+    },
+    {
+      "name": "Toad Town - Pipe Yard Accessed",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Toad Town",
+      "requires": "|Toad Town Caves - Pipe Yard Exit Opened| or |Bowser - Reaches Toad Town|",
+      "visible": true,
+      "_comment": "The Pipe Yard enables travel between Bowser’s body and the overworld."
+    },
+    {
+      "name": "Blubble Lake - Tower of Yikk Raised",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Blubble Lake",
+      "requires": "|Plack Beach - Route to Blubble Lake Opened|",
+      "visible": true,
+      "_comment": "The tower rises from the lake and becomes accessible."
+    },
+    {
+      "name": "Tower of Yikk - Boo-Ray Machine Activated",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Tower of Yikk",
+      "requires": "|Blubble Lake - Tower of Yikk Raised|",
+      "visible": true,
+      "_comment": "The Boo-Ray Machine opens the route into Energy Hold."
+    },
+    {
+      "name": "Energy Hold - Wisdurm Defeated",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Energy Hold",
+      "requires": "|Drill Bros. Tutorial Reward|",
+      "visible": true,
+      "_comment": "Mario and Luigi defeat Wisdurm, the first Star Sage."
+    },
+    {
+      "name": "Joint Tower - Pressure Points Activated",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Joint Tower",
+      "requires": "|Drill Bros. Tutorial Reward|",
+      "visible": true,
+      "_comment": "The Bros activate the pressure points that teach Bowser Body Slam."
+    },
+    {
+      "name": "Bowser Castle - Fawful Express Defeated",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Bowser Castle",
+      "requires": "|Tower of Yikk - Learn Body Slam| and |Obtain First Star Cure|",
+      "visible": true,
+      "_comment": "Bowser defeats the Fawful Express during the castle treasure-cure sequence."
+    },
+    {
+      "name": "Plack Beach - Chakron Defeated",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Plack Beach",
+      "requires": "|Obtain Second Star Cure| and |Attack Piece - Dimble Wood:10|",
+      "visible": true,
+      "_comment": "The Bros complete the later Star Sage challenge at Plack Beach."
+    },
+    {
+      "name": "Create Miracle Cure",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Toad Town",
+      "requires": "|Obtain First Star Cure| and |Obtain Second Star Cure| and |Obtain Third Star Cure|",
+      "visible": true,
+      "_comment": "The three Star Cures are combined at Toadley Clinic."
+    },
+    {
+      "name": "Dark Star Barrier Destroyed",
+      "category": [
+        "Story Events"
+      ],
+      "region": "Peach's Castle Garden",
+      "requires": "|Create Miracle Cure|",
+      "visible": true,
+      "_comment": "The Miracle Cure removes the Dark Star barrier around Peach’s Castle."
+    }
+  ]
+}

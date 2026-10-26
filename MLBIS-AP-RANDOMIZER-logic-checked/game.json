@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.game.schema.json",
+  "game": "Mario and Luigi: Bowser's Inside Story",
+  "creator": "dinonuggies24",
+  "filler_item_name": "Coins",
+  "starting_items": [
+    {
+      "item_categories": [
+        "ML Gear - Wear"
+      ],
+      "random": 2
+    },
+    {
+      "item_categories": [
+        "B Gear - Shells"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Progressive ML Special"
+      ]
+    }
+  ],
+  "death_link": true,
+  "starting_index": 1,
+  "unused_goals_are_locations": true
+}

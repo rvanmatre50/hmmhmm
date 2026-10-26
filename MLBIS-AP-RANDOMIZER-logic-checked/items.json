@@ -1,0 +1,1435 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "name": "Attack Piece - Trash Pit",
+      "count": 10,
+      "category": [
+        "Attack Pieces"
+      ],
+      "progression": true,
+      "filler": false
+    },
+    {
+      "name": "Attack Piece - Pump Works",
+      "count": 10,
+      "useful": true,
+      "category": [
+        "Attack Pieces"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Attack Piece - Flab Zone",
+      "count": 10,
+      "useful": true,
+      "category": [
+        "Attack Pieces"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Attack Piece - Toad Town",
+      "count": 10,
+      "category": [
+        "Attack Pieces"
+      ],
+      "progression": true,
+      "filler": false
+    },
+    {
+      "name": "Attack Piece - Energy Hold",
+      "count": 10,
+      "useful": true,
+      "category": [
+        "Attack Pieces"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Attack Piece - Plack Beach",
+      "count": 10,
+      "useful": true,
+      "category": [
+        "Attack Pieces"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Attack Piece - Toadley Clinic",
+      "count": 10,
+      "useful": true,
+      "category": [
+        "Attack Pieces"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Attack Piece - Dimble Wood",
+      "count": 10,
+      "category": [
+        "Attack Pieces"
+      ],
+      "progression": true,
+      "filler": false
+    },
+    {
+      "name": "Attack Piece - Bowser's Castle",
+      "count": 10,
+      "useful": true,
+      "category": [
+        "Attack Pieces"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Attack Piece - Peach's Castle",
+      "count": 10,
+      "useful": true,
+      "category": [
+        "Attack Pieces"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Thin Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Picnic Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Leisure Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Fighter Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Heart Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Brawny Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Grown-up Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Koopa Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Hero Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Balm Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Muscle Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "King Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Star Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "D-Star Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "A-OK Wear",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Master Wear",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "ML Gear - Wear"
+      ]
+    },
+    {
+      "name": "Gall Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Starched Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "HP Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Hustle Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Nurse Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "No-touch Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "SP Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Special Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Coin Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Rugged Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "EXP Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "DX HP Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "DX SP Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Doctor Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Surprising Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Gumption Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Guardian Socks",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "Bro Socks",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "ML Gear - Socks"
+      ]
+    },
+    {
+      "name": "POW Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Heavy Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Item Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Flower Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Softener Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Delicious Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Bye-Bye Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Mushroom Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Special Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Dent Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "DX POW Gloves",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Siphon Gloves",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "ML Gear - Gloves"
+      ]
+    },
+    {
+      "name": "Heavy Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Shell Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "POW Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Siphon Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Coin Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Dizzy Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Shroob Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Special Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Big Stomp Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Tip-Top Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "DX POW Boots",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Daredevil Boots",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "ML Gear - Boots"
+      ]
+    },
+    {
+      "name": "Luck Charm",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Happy Charm",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Tight Belt",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Budget Charm",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Thrift Charm",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Advice Patch",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Heroic Patch",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Luxury Patch",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Big Shell",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Small Shell",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Giant Shell",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "KO Shell",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "POW Mush Jam",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "DEF Mush Jam",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Lazy Scarf",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Vengence Cape",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Mushroom Stone",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Gold Crown",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Gold Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Treasure Specs",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Challenge Medal",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Ironclad Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Wicked Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Dream Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Rampage Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Armored Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Rock Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Judge Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Safety Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Special Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Shabby Shell",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "King Shell",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Shells"
+      ]
+    },
+    {
+      "name": "Block Band",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Lucky Band",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Iron Fist Band",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Power Band",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Minion Band",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Vampire Band",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Hunter Band",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Stamina Band",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Power Band +",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Minion Band SP",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Fury Band",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "B Gear - Bands"
+      ]
+    },
+    {
+      "name": "Red-Hot Fangs",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Special Fangs",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Burning Fangs",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Power Fangs",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Fury Fangs",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Flashy Fangs",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Special Fangs X",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Power Fangs X",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Intruder Fangs",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Bone Fangs",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Block Fangs",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "B Gear - Fangs"
+      ]
+    },
+    {
+      "name": "Hard Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Cheap Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Fast Cash Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Safety Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Drumstick Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Glutton Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Restore Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Peace Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Excellent Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Fill-Up Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Economy Ring",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Block Ring",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Treasure Ring",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Heroic Ring",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "B Gear - Rings"
+      ]
+    },
+    {
+      "name": "Progressive ML Special",
+      "count": 10,
+      "useful": true,
+      "category": [
+        "ML Specials"
+      ]
+    },
+    {
+      "name": "Progressive Bowser Special",
+      "count": 6,
+      "useful": true,
+      "category": [
+        "B Specials"
+      ]
+    },
+    {
+      "name": "Blitty",
+      "count": 15,
+      "useful": true,
+      "category": [
+        "Key Items"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Mushroom Ball",
+      "count": 16,
+      "useful": true,
+      "category": [
+        "Key Items"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Puzzle Sack",
+      "count": 4,
+      "useful": true,
+      "category": [
+        "Key Items"
+      ],
+      "filler": false
+    },
+    {
+      "name": "Blue Key",
+      "count": 1,
+      "progression": true,
+      "category": [
+        "Key Items"
+      ]
+    },
+    {
+      "name": "Green Key",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "Key Items"
+      ]
+    },
+    {
+      "name": "Red Key",
+      "count": 1,
+      "useful": true,
+      "category": [
+        "Key Items"
+      ]
+    },
+    {
+      "name": "Mushroom",
+      "count": 8,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Super Mushroom",
+      "count": 9,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Ultra Mushroom",
+      "count": 5,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Max Mushroom",
+      "count": 3,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "1-Up Mushroom",
+      "count": 7,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "1-Up Deluxe",
+      "count": 4,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Hot Drumstick",
+      "count": 8,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Fiery Drumstick",
+      "count": 8,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "TNT Drumstick",
+      "count": 5,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Nut",
+      "count": 11,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Super Nut",
+      "count": 8,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Ultra Nut",
+      "count": 5,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Max Nut",
+      "count": 3,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Syrup Jar",
+      "count": 8,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Supersyrup Jar",
+      "count": 8,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Ultrasyrup Jar",
+      "count": 5,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Max Syrup Jar",
+      "count": 3,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Star Candy",
+      "count": 5,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Refreshing Herb",
+      "count": 8,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Heart Bean",
+      "count": 6,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Special Bean",
+      "count": 6,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Power Bean",
+      "count": 6,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Retry Clock",
+      "count": 6,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Mushroom Badge",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Badges"
+      ]
+    },
+    {
+      "name": "Powerful Badge",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Badges"
+      ]
+    },
+    {
+      "name": "Bonus Badge",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Badges"
+      ]
+    },
+    {
+      "name": "Bro Badge",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Badges"
+      ]
+    },
+    {
+      "name": "Good Badge",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Badges"
+      ]
+    },
+    {
+      "name": "Great Badge",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Badges"
+      ]
+    },
+    {
+      "name": "Excellent! Badge",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Badges"
+      ]
+    },
+    {
+      "name": "Excellent!! Badge",
+      "count": 2,
+      "useful": true,
+      "category": [
+        "Badges"
+      ]
+    },
+    {
+      "name": "100 Coins",
+      "count": 5,
+      "filler": true,
+      "category": [
+        "Consumable Items"
+      ]
+    },
+    {
+      "name": "Coins",
+      "count": 1,
+      "useful": false,
+      "category": [
+        "Consumable Items"
+      ],
+      "_comment": "Filler item configured in game.json; represents generic coin rewards."
+    }
+  ]
+}

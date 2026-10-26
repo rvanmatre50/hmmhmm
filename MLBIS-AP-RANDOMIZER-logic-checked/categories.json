@@ -1,0 +1,126 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.categories.schema.json",
+  "Accessories": {
+    "_comment": "Category used by the MLBIS Manual world: Accessories."
+  },
+  "Airway": {
+    "_comment": "Category used by the MLBIS Manual world: Airway."
+  },
+  "Attack Pieces": {
+    "_comment": "Category used by the MLBIS Manual world: Attack Pieces."
+  },
+  "B Gear - Bands": {
+    "_comment": "Category used by the MLBIS Manual world: B Gear - Bands."
+  },
+  "B Gear - Fangs": {
+    "_comment": "Category used by the MLBIS Manual world: B Gear - Fangs."
+  },
+  "B Gear - Rings": {
+    "_comment": "Category used by the MLBIS Manual world: B Gear - Rings."
+  },
+  "B Gear - Shells": {
+    "_comment": "Category used by the MLBIS Manual world: B Gear - Shells."
+  },
+  "B Specials": {
+    "_comment": "Category used by the MLBIS Manual world: B Specials."
+  },
+  "Badges": {
+    "_comment": "Category used by the MLBIS Manual world: Badges."
+  },
+  "Beans": {
+    "_comment": "Category used by the MLBIS Manual world: Beans."
+  },
+  "Blocks": {
+    "_comment": "Category used by the MLBIS Manual world: Blocks."
+  },
+  "Blubble Lake": {
+    "_comment": "Category used by the MLBIS Manual world: Blubble Lake."
+  },
+  "Bowser Castle": {
+    "_comment": "Category used by the MLBIS Manual world: Bowser Castle."
+  },
+  "Bowser Path": {
+    "_comment": "Category used by the MLBIS Manual world: Bowser Path."
+  },
+  "Bumpsy Plains": {
+    "_comment": "Category used by the MLBIS Manual world: Bumpsy Plains."
+  },
+  "Cavi Cape": {
+    "_comment": "Category used by the MLBIS Manual world: Cavi Cape."
+  },
+  "Challenge Node": {
+    "_comment": "Category used by the MLBIS Manual world: Challenge Node."
+  },
+  "Consumable Items": {
+    "_comment": "Category used by the MLBIS Manual world: Consumable Items."
+  },
+  "Dimble Wood": {
+    "_comment": "Category used by the MLBIS Manual world: Dimble Wood."
+  },
+  "Energy Hold": {
+    "_comment": "Category used by the MLBIS Manual world: Energy Hold."
+  },
+  "Flab Zone": {
+    "_comment": "Category used by the MLBIS Manual world: Flab Zone."
+  },
+  "Key Items": {
+    "_comment": "Category used by the MLBIS Manual world: Key Items."
+  },
+  "ML Gear - Boots": {
+    "_comment": "Category used by the MLBIS Manual world: ML Gear - Boots."
+  },
+  "ML Gear - Gloves": {
+    "_comment": "Category used by the MLBIS Manual world: ML Gear - Gloves."
+  },
+  "ML Gear - Socks": {
+    "_comment": "Category used by the MLBIS Manual world: ML Gear - Socks."
+  },
+  "ML Gear - Wear": {
+    "_comment": "Category used by the MLBIS Manual world: ML Gear - Wear."
+  },
+  "ML Specials": {
+    "_comment": "Category used by the MLBIS Manual world: ML Specials."
+  },
+  "Objects and Rewards": {
+    "_comment": "Category used by the MLBIS Manual world: Objects and Rewards."
+  },
+  "Peach's Castle": {
+    "_comment": "Category used by the MLBIS Manual world: Peach's Castle."
+  },
+  "Peach's Castle Garden": {
+    "_comment": "Category used by the MLBIS Manual world: Peach's Castle Garden."
+  },
+  "Plack Beach": {
+    "_comment": "Category used by the MLBIS Manual world: Plack Beach."
+  },
+  "Pump Works": {
+    "_comment": "Category used by the MLBIS Manual world: Pump Works."
+  },
+  "Ranks": {
+    "_comment": "Category used by the MLBIS Manual world: Ranks."
+  },
+  "Story Events": {
+    "_comment": "Category used by the MLBIS Manual world: Story Events."
+  },
+  "Toad Town": {
+    "_comment": "Category used by the MLBIS Manual world: Toad Town."
+  },
+  "Toad Town Caves": {
+    "_comment": "Category used by the MLBIS Manual world: Toad Town Caves."
+  },
+  "Tower of Yikk": {
+    "_comment": "Category used by the MLBIS Manual world: Tower of Yikk."
+  },
+  "Trash Pit": {
+    "_comment": "Category used by the MLBIS Manual world: Trash Pit."
+  },
+  "Tunnel": {
+    "_comment": "Category used by the MLBIS Manual world: Tunnel."
+  },
+  "Joint Tower": {
+    "_comment": "Logic-only category/area label for Joint Tower."
+  },
+  "Opening": {
+    "_comment": "Logic-only category/area label for Opening."
+  }
+}

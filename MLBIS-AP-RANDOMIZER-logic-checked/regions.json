@@ -1,0 +1,159 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.regions.schema.json",
+  "Opening": {
+    "starting": true,
+    "connects_to": [
+      "Peach's Castle",
+      "Bowser Path"
+    ],
+    "requires": "",
+    "_comment": "Location-free starting hub for the opening story event."
+  },
+  "Peach's Castle": {
+    "connects_to": [
+      "Peach's Castle Garden"
+    ],
+    "requires": "|Opening - Mario Defeats Bowser|",
+    "_comment": "The broad castle region includes early castle checks; the source list does not distinguish all early vs endgame rooms."
+  },
+  "Bowser Path": {
+    "connects_to": [
+      "Cavi Cape",
+      "Trash Pit"
+    ],
+    "requires": "|Opening - Mario Defeats Bowser|",
+    "_comment": "Early Bowser overworld path."
+  },
+  "Cavi Cape": {
+    "connects_to": [
+      "Plack Beach",
+      "Bumpsy Plains"
+    ],
+    "requires": "|Opening - Bowser Inhales Mario and Luigi|",
+    "_comment": "Cavi Cape and its cave are treated as one region because the source checks do not split them."
+  },
+  "Trash Pit": {
+    "connects_to": [
+      "Airway"
+    ],
+    "requires": "|Opening - Bowser Inhales Mario and Luigi|",
+    "_comment": "First Mario and Luigi area inside Bowser."
+  },
+  "Airway": {
+    "connects_to": [
+      "Toad Town Caves"
+    ],
+    "requires": "|Trash Pit - Hammers Acquired|",
+    "_comment": "Inside-Bowser route after the hammers are obtained."
+  },
+  "Toad Town Caves": {
+    "connects_to": [
+      "Toad Town"
+    ],
+    "requires": "|Airway - Inner Passage Opened|",
+    "_comment": "Cave route to the Pipe Yard."
+  },
+  "Toad Town": {
+    "connects_to": [
+      "Plack Beach",
+      "Dimble Wood",
+      "Challenge Node"
+    ],
+    "requires": "|Toad Town Caves - Pipe Yard Exit Opened| or |Bowser - Reaches Toad Town|",
+    "_comment": "Shared hub. Either the Bros open the Pipe Yard route or Bowser reaches town."
+  },
+  "Plack Beach": {
+    "connects_to": [
+      "Pump Works",
+      "Blubble Lake"
+    ],
+    "requires": "|Bowser - Reaches Plack Beach|",
+    "_comment": "Accessible during Bowser’s early route; later Bros checks are represented in the same area."
+  },
+  "Pump Works": {
+    "connects_to": [
+      "Flab Zone"
+    ],
+    "requires": "|Plack Beach - Sea Pipe Statue Defeated|",
+    "_comment": "The Sea Pipe Statue encounter opens Pump Works."
+  },
+  "Dimble Wood": {
+    "connects_to": [
+      "Energy Hold"
+    ],
+    "requires": "|Plack Beach - Broque Sends Bowser to Dimble Wood|",
+    "_comment": "Broque and Broggy direct Bowser to Dimble Wood; later Star Cure story revisits it."
+  },
+  "Bumpsy Plains": {
+    "connects_to": [
+      "Toad Town",
+      "Blubble Lake"
+    ],
+    "requires": "|Bowser - Reaches Bumpsy Plains|",
+    "_comment": "Overworld route toward Toad Town and Blubble Lake."
+  },
+  "Blubble Lake": {
+    "connects_to": [
+      "Tower of Yikk"
+    ],
+    "requires": "|Plack Beach - Route to Blubble Lake Opened|",
+    "_comment": "Bowser raises the tower from the lake during the story."
+  },
+  "Tower of Yikk": {
+    "connects_to": [
+      "Energy Hold",
+      "Joint Tower"
+    ],
+    "requires": "|Blubble Lake - Tower of Yikk Raised|",
+    "_comment": "Tower access precedes the Boo-Ray Machine and the route into Energy Hold."
+  },
+  "Energy Hold": {
+    "connects_to": [
+      "Joint Tower",
+      "Flab Zone"
+    ],
+    "requires": "|Tower of Yikk - Boo-Ray Machine Activated|",
+    "_comment": "The Boo-Ray Machine enables the Bros to explore this area."
+  },
+  "Joint Tower": {
+    "connects_to": [
+      "Bowser Castle"
+    ],
+    "requires": "|Drill Bros. Tutorial Reward|",
+    "_comment": "Event-only region for the Body Slam pressure-point sequence."
+  },
+  "Flab Zone": {
+    "connects_to": [
+      "Dimble Wood"
+    ],
+    "requires": "|Toad Town - Pipe Yard Accessed|",
+    "_comment": "Inside-Bowser exploration after the Pipe Yard becomes available."
+  },
+  "Bowser Castle": {
+    "connects_to": [
+      "Tunnel",
+      "Peach's Castle Garden"
+    ],
+    "requires": "|Tower of Yikk - Learn Body Slam|",
+    "_comment": "Body Slam opens Bowser’s castle route and its later story checks."
+  },
+  "Tunnel": {
+    "connects_to": [
+      "Bowser Castle"
+    ],
+    "requires": "|Tower of Yikk - Learn Body Slam|",
+    "_comment": "Bowser-only tunnel access after Body Slam."
+  },
+  "Peach's Castle Garden": {
+    "connects_to": [
+      "Peach's Castle"
+    ],
+    "requires": "|Create Miracle Cure|",
+    "_comment": "Endgame garden checks are gated behind the Miracle Cure."
+  },
+  "Challenge Node": {
+    "connects_to": [],
+    "requires": "|Toad Town - Pipe Yard Accessed|",
+    "_comment": "Optional challenge checks are kept out of the opening spheres."
+  }
+}
